@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventTracker</string>
+    <string name="component_raised_button">Raised</string>
+</resources>
